@@ -3,7 +3,7 @@
 A modern, fully responsive landing page for a coffee shop built with React.js, Redux Toolkit, and Tailwind CSS v4.1 (Vite Plugin).
 
 ## Live Demo
-[Click Here](https://your-live-demo-link.com)
+[Click Here](https://coffee-shop-landing-page-sigma.vercel.app/)
 
 ## Features List
 
