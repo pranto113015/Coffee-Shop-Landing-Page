@@ -42,7 +42,7 @@ A modern, fully responsive landing page for a coffee shop built with React.js, R
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/coffee-shop-landing.git
+git clone https://github.com/pranto113015/Coffee-Shop-Landing-Page.git
 
 ```
 
