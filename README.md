@@ -3,7 +3,13 @@
 A modern, fully responsive landing page for a coffee shop built with React.js, Redux Toolkit, and Tailwind CSS v4.1 (Vite Plugin).
 
 ## Live Demo
+
 [Click Here](https://coffee-shop-landing-page-sigma.vercel.app/)
+
+## Screenshot
+ 
+![Preview](./preview/desktop.png)
+
 
 ## Features List
 
@@ -34,22 +40,26 @@ A modern, fully responsive landing page for a coffee shop built with React.js, R
 ## Installation & Run Locally
 
 ### Step 1: Clone the Repository
+
 ```bash
 git clone https://github.com/your-username/coffee-shop-landing.git
 
 ```
 
 ### Step 2: Install Dependencies
+
 ```bash
 npm install
 ```
 
 ### Step 3: Run Development Server
+
 ```bash
 npm run dev
 ```
 
 ### Step 4: Open in Browser This URL
+
 ```
 http://localhost:5173
 ```
@@ -75,12 +85,6 @@ src/
 ├── main.jsx                # Entry point with Redux Provider
 └── index.css               # Tailwind CSS v4.1 import
 ```
-
-## Responsive Breakpoints
-
-- **Mobile**: < 768px
-- **Tablet**: 768px - 1024px
-- **Desktop**: > 1024px
 
 ## Design Features
 
@@ -111,23 +115,20 @@ Production files will be generated in the `dist/` folder.
 10. All required sections
 11. Fully responsive
 
-##  Screenshots
+## Screenshots
 
 Include screenshots of:
+
 1. Mobile view (375px width)
 2. Tablet view (768px width)
 3. Desktop view (1440px width)
 
-##  Developer Information
+## Developer Information
 
 **Name**: Pranto Kumar  
 **Email**: pranto113015@gmail.com  
-**Submission Date**: 17-Nov-2025  
+**Submission Date**: 17-Nov-2025
 
-
-
-
-##  License
+## License
 
 This project was created as part of a Frontend Developer Intern assignment.
-
