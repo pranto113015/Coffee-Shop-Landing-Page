@@ -115,13 +115,6 @@ Production files will be generated in the `dist/` folder.
 10. All required sections
 11. Fully responsive
 
-## Screenshots
-
-Include screenshots of:
-
-1. Mobile view (375px width)
-2. Tablet view (768px width)
-3. Desktop view (1440px width)
 
 ## Developer Information
 
